@@ -1,0 +1,44 @@
+name: Weekly Ranking Update
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'  # 每週一執行
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repo
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    - name: Run scraper
+      run: python update_ranking.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "Ranking Bot"
+        git config --global user.email "bot@example.com"
+        git add rankingData.json
+        git commit -m "🔄 Weekly update: $(date +'%Y-%m-%d')" || echo "No changes"
+        git push
+
+    - name: Email Notification
+      uses: dawidd6/action-send-mail@v3
+      with:
+        server_address: smtp.gmail.com
+        server_port: 587
+        username: ${{ secrets.EMAIL_USER }}
+        password: ${{ secrets.EMAIL_PASS }}
+        subject: "✅ Streaming Ranking Data Updated"
+        to: ${{ secrets.EMAIL_TO }}
+        from: ${{ secrets.EMAIL_USER }}
+        body: "The weekly rankingData.json has been updated and pushed to the repository."
