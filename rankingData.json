@@ -1,1 +1,134 @@
-
+{
+  "japan": {
+    "Netflix": {
+      "tv": [
+        {
+          "nameZh": "新聞主播",
+          "nameEn": "News Anchor",
+          "platform": "Netflix",
+          "rating": "PG-13",
+          "genre": "劇情",
+          "imdb": "7.8",
+          "rt": "80%"
+        },
+        {
+          "nameZh": "風之破壞者",
+          "nameEn": "Wind Breaker",
+          "platform": "Netflix",
+          "rating": "PG-13",
+          "genre": "動作／校園",
+          "imdb": "8.1",
+          "rt": "N/A"
+        }
+      ],
+      "movie": [
+        {
+          "nameZh": "鈴芽之旅",
+          "nameEn": "Suzume",
+          "platform": "Netflix",
+          "rating": "PG",
+          "genre": "動畫／奇幻",
+          "imdb": "7.8",
+          "rt": "95%"
+        },
+        {
+          "nameZh": "咒術迴戰0",
+          "nameEn": "Jujutsu Kaisen 0",
+          "platform": "Netflix",
+          "rating": "PG-13",
+          "genre": "動畫／動作",
+          "imdb": "7.8",
+          "rt": "98%"
+        }
+      ]
+    }
+  },
+  "usa": {
+    "Netflix": {
+      "tv": [
+        {
+          "nameZh": "黑鏡",
+          "nameEn": "Black Mirror",
+          "platform": "Netflix",
+          "rating": "TV-MA",
+          "genre": "科幻／驚悚",
+          "imdb": "8.8",
+          "rt": "84%"
+        },
+        {
+          "nameZh": "最後生還者",
+          "nameEn": "The Last of Us",
+          "platform": "Netflix",
+          "rating": "TV-MA",
+          "genre": "劇情／末日",
+          "imdb": "8.6",
+          "rt": "96%"
+        }
+      ],
+      "movie": [
+        {
+          "nameZh": "奧本海默",
+          "nameEn": "Oppenheimer",
+          "platform": "Netflix",
+          "rating": "R",
+          "genre": "歷史／傳記",
+          "imdb": "8.4",
+          "rt": "93%"
+        },
+        {
+          "nameZh": "Barbie芭比",
+          "nameEn": "Barbie",
+          "platform": "Netflix",
+          "rating": "PG-13",
+          "genre": "喜劇／奇幻",
+          "imdb": "7.0",
+          "rt": "88%"
+        }
+      ]
+    }
+  },
+  "taiwan": {
+    "Netflix": {
+      "tv": [
+        {
+          "nameZh": "模仿犯",
+          "nameEn": "Copycat Killer",
+          "platform": "Netflix",
+          "rating": "TV-MA",
+          "genre": "犯罪／懸疑",
+          "imdb": "7.3",
+          "rt": "82%"
+        },
+        {
+          "nameZh": "我們與惡的距離",
+          "nameEn": "The World Between Us",
+          "platform": "Netflix",
+          "rating": "PG-13",
+          "genre": "社會／劇情",
+          "imdb": "8.7",
+          "rt": "93%"
+        }
+      ],
+      "movie": [
+        {
+          "nameZh": "咒",
+          "nameEn": "Incantation",
+          "platform": "Netflix",
+          "rating": "R",
+          "genre": "恐怖／偽紀錄片",
+          "imdb": "6.3",
+          "rt": "87%"
+        },
+        {
+          "nameZh": "返校",
+          "nameEn": "Detention",
+          "platform": "Netflix",
+          "rating": "PG-13",
+          "genre": "驚悚／歷史",
+          "imdb": "6.7",
+          "rt": "88%"
+        }
+      ]
+    }
+  }
+}
