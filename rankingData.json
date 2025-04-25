@@ -1,287 +1,68 @@
 {
-  "japan": {
+  "taiwan": {
     "Netflix": {
-      "tv": [
-        {
-          "nameZh": "風之破壞者",
-          "nameEn": "Wind Breaker",
-          "platform": "Netflix",
-          "rating": "PG-13",
-          "genre": "動畫／校園",
-          "imdb": "8.1",
-          "rt": "N/A"
-        },
-        {
-          "nameZh": "葬送的芙莉蓮",
-          "nameEn": "Frieren: Beyond Journey’s End",
-          "platform": "Netflix",
-          "rating": "PG",
-          "genre": "動畫／奇幻",
-          "imdb": "9.0",
-          "rt": "N/A"
-        }
-      ],
-      "movie": [
-        {
-          "nameZh": "名偵探柯南：黑鐵的魚影",
-          "nameEn": "Detective Conan: Black Iron Submarine",
-          "platform": "Netflix",
-          "rating": "PG",
-          "genre": "動畫／推理",
-          "imdb": "7.4",
-          "rt": "N/A"
-        },
-        {
-          "nameZh": "鈴芽之旅",
-          "nameEn": "Suzume",
-          "platform": "Netflix",
-          "rating": "PG",
-          "genre": "動畫／奇幻",
-          "imdb": "7.8",
-          "rt": "95%"
-        }
-      ]
+      "tv": [],
+      "movie": []
     },
     "Prime Video": {
-      "tv": [
-        {
-          "nameZh": "孤獨的美食家",
-          "nameEn": "Solitary Gourmet",
-          "platform": "Prime Video",
-          "rating": "PG",
-          "genre": "劇情／美食",
-          "imdb": "8.1",
-          "rt": "N/A"
-        },
-        {
-          "nameZh": "半澤直樹",
-          "nameEn": "Hanzawa Naoki",
-          "platform": "Prime Video",
-          "rating": "PG-13",
-          "genre": "職場／懸疑",
-          "imdb": "8.5",
-          "rt": "N/A"
-        }
-      ],
-      "movie": [
-        {
-          "nameZh": "鬼滅之刃 無限列車篇",
-          "nameEn": "Demon Slayer: Mugen Train",
-          "platform": "Prime Video",
-          "rating": "PG-13",
-          "genre": "動畫／動作",
-          "imdb": "8.2",
-          "rt": "98%"
-        }
-      ]
+      "tv": [],
+      "movie": []
     },
     "Disney+": {
-      "tv": [
-        {
-          "nameZh": "洛基",
-          "nameEn": "Loki",
-          "platform": "Disney+",
-          "rating": "TV-14",
-          "genre": "奇幻／英雄",
-          "imdb": "8.2",
-          "rt": "90%"
-        }
-      ],
-      "movie": [
-        {
-          "nameZh": "星際異攻隊3",
-          "nameEn": "Guardians of the Galaxy Vol. 3",
-          "platform": "Disney+",
-          "rating": "PG-13",
-          "genre": "動作／科幻",
-          "imdb": "7.9",
-          "rt": "81%"
-        }
-      ]
+      "tv": [],
+      "movie": []
+    },
+    "Apple TV+": {
+      "tv": [],
+      "movie": []
+    },
+    "Max": {
+      "tv": [],
+      "movie": []
+    }
+  },
+  "japan": {
+    "Netflix": {
+      "tv": [],
+      "movie": []
+    },
+    "Prime Video": {
+      "tv": [],
+      "movie": []
+    },
+    "Disney+": {
+      "tv": [],
+      "movie": []
+    },
+    "Apple TV+": {
+      "tv": [],
+      "movie": []
+    },
+    "Max": {
+      "tv": [],
+      "movie": []
     }
   },
   "usa": {
     "Netflix": {
-      "tv": [
-        {
-          "nameZh": "黑鏡",
-          "nameEn": "Black Mirror",
-          "platform": "Netflix",
-          "rating": "TV-MA",
-          "genre": "科幻／懸疑",
-          "imdb": "8.8",
-          "rt": "92%"
-        },
-        {
-          "nameZh": "獅子女兵",
-          "nameEn": "Lioness",
-          "platform": "Netflix",
-          "rating": "TV-MA",
-          "genre": "動作／軍事",
-          "imdb": "7.6",
-          "rt": "89%"
-        }
-      ],
-      "movie": [
-        {
-          "nameZh": "i人質",
-          "nameEn": "iHostage",
-          "platform": "Netflix",
-          "rating": "R",
-          "genre": "動作／懸疑",
-          "imdb": "6.9",
-          "rt": "72%"
-        },
-        {
-          "nameZh": "神偷奶爸4",
-          "nameEn": "Despicable Me 4",
-          "platform": "Netflix",
-          "rating": "PG",
-          "genre": "動畫／喜劇",
-          "imdb": "6.7",
-          "rt": "85%"
-        }
-      ]
+      "tv": [],
+      "movie": []
     },
-    "Apple TV+": {
-      "tv": [
-        {
-          "nameZh": "泰德拉索：錯棚教練",
-          "nameEn": "Ted Lasso",
-          "platform": "Apple TV+",
-          "rating": "TV-MA",
-          "genre": "喜劇／勵志",
-          "imdb": "8.8",
-          "rt": "95%"
-        }
-      ],
-      "movie": [
-        {
-          "nameZh": "空戰群英",
-          "nameEn": "Greyhound",
-          "platform": "Apple TV+",
-          "rating": "PG-13",
-          "genre": "戰爭／歷史",
-          "imdb": "7.0",
-          "rt": "77%"
-        }
-      ]
-    },
-    "Max": {
-      "tv": [
-        {
-          "nameZh": "繼承之戰",
-          "nameEn": "Succession",
-          "platform": "Max",
-          "rating": "TV-MA",
-          "genre": "劇情／商戰",
-          "imdb": "8.9",
-          "rt": "94%"
-        }
-      ],
-      "movie": [
-        {
-          "nameZh": "Barbie 芭比",
-          "nameEn": "Barbie",
-          "platform": "Max",
-          "rating": "PG-13",
-          "genre": "喜劇／奇幻",
-          "imdb": "7.0",
-          "rt": "88%"
-        }
-      ]
-    }
-  },
-  "taiwan": {
-    "Netflix": {
-      "tv": [
-        {
-          "nameZh": "模仿犯",
-          "nameEn": "Copycat Killer",
-          "platform": "Netflix",
-          "rating": "TV-MA",
-          "genre": "懸疑／犯罪",
-          "imdb": "7.3",
-          "rt": "82%"
-        },
-        {
-          "nameZh": "當男人戀愛時",
-          "nameEn": "Man in Love",
-          "platform": "Netflix",
-          "rating": "PG-13",
-          "genre": "愛情／劇情",
-          "imdb": "7.1",
-          "rt": "75%"
-        }
-      ],
-      "movie": [
-        {
-          "nameZh": "咒",
-          "nameEn": "Incantation",
-          "platform": "Netflix",
-          "rating": "R",
-          "genre": "恐怖／紀錄片",
-          "imdb": "6.3",
-          "rt": "87%"
-        },
-        {
-          "nameZh": "月老",
-          "nameEn": "Till We Meet Again",
-          "platform": "Netflix",
-          "rating": "PG-13",
-          "genre": "愛情／奇幻",
-          "imdb": "7.0",
-          "rt": "79%"
-        }
-      ]
+    "Prime Video": {
+      "tv": [],
+      "movie": []
     },
     "Disney+": {
-      "tv": [
-        {
-          "nameZh": "無限可能：假如…？",
-          "nameEn": "What If...?",
-          "platform": "Disney+",
-          "rating": "TV-14",
-          "genre": "動畫／多重宇宙",
-          "imdb": "7.4",
-          "rt": "79%"
-        }
-      ],
-      "movie": [
-        {
-          "nameZh": "冰雪奇緣2",
-          "nameEn": "Frozen II",
-          "platform": "Disney+",
-          "rating": "PG",
-          "genre": "動畫／冒險",
-          "imdb": "6.8",
-          "rt": "92%"
-        }
-      ]
+      "tv": [],
+      "movie": []
     },
     "Apple TV+": {
-      "tv": [
-        {
-          "nameZh": "基地",
-          "nameEn": "Foundation",
-          "platform": "Apple TV+",
-          "rating": "TV-MA",
-          "genre": "科幻／史詩",
-          "imdb": "7.5",
-          "rt": "72%"
-        }
-      ],
-      "movie": [
-        {
-          "nameZh": "Finch 芬奇",
-          "nameEn": "Finch",
-          "platform": "Apple TV+",
-          "rating": "PG-13",
-          "genre": "冒險／末日",
-          "imdb": "6.9",
-          "rt": "80%"
-        }
-      ]
+      "tv": [],
+      "movie": []
+    },
+    "Max": {
+      "tv": [],
+      "movie": []
     }
   }
 }
